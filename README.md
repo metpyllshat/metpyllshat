@@ -28,3 +28,4 @@ me.say_hi()
 me.display_skills()
 me.print_github_profile()
 ```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=metpyllshat)](https://git.io/streak-stats)
